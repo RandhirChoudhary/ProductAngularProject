@@ -1,0 +1,34 @@
+{
+  "product": [
+    {
+      "name": "t-shirts",
+      "color": "red",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "pant",
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "name": "jogger",
+      "color": "green"
+    },
+    {
+      "name": "mic",
+      "color": "white",
+      "id": 4
+    },
+    {
+      "name": "headphone",
+      "color": "blue",
+      "id": 5
+    },
+    {
+      "name": "keyboard",
+      "color": "yellow",
+      "id": 6
+    }
+  ]
+}
